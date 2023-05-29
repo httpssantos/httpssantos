@@ -6,5 +6,5 @@
 <img align="center" alt="Pedro" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" >
 <img align="center" alt="Pedro" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" >
 
-<img align="center" alt="Pedro" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/HTML-CSS-original.svg" >
+<img align="center" alt="Pedro" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/HTML5-original.svg" >
 
